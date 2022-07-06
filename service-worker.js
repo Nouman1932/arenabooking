@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arenabooking/precache-manifest.9885af5a1fe8636f575d829f3fdb36c6.js"
+  "/arenabooking/precache-manifest.e91254e9d48cd79701fb9b82dd20216f.js"
 );
 
 self.addEventListener('message', (event) => {
