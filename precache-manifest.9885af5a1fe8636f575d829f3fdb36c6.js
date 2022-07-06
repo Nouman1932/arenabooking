@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9509cef0d338cd3d5938c39a575fec6b",
+    "revision": "8e244388136b2d1bf79b7084aba16dcd",
     "url": "/arenabooking/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arenabooking/static/css/2.d5e16441.chunk.css"
   },
   {
-    "revision": "4f19f6ebab19a91a6f4b",
+    "revision": "8b0fb2ae0a6f4be919a4",
     "url": "/arenabooking/static/css/main.86ba1027.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arenabooking/static/js/2.313bc70b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f19f6ebab19a91a6f4b",
-    "url": "/arenabooking/static/js/main.a2261bc6.chunk.js"
+    "revision": "8b0fb2ae0a6f4be919a4",
+    "url": "/arenabooking/static/js/main.83f022d5.chunk.js"
   },
   {
     "revision": "56ba9e6a95ab6fba5ec2",
