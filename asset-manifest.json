@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/arena-booking/static/css/main.d10a64a2.chunk.css",
-    "main.js": "/arena-booking/static/js/main.93e0288f.chunk.js",
-    "main.js.map": "/arena-booking/static/js/main.93e0288f.chunk.js.map",
+    "main.js": "/arena-booking/static/js/main.62a868ca.chunk.js",
+    "main.js.map": "/arena-booking/static/js/main.62a868ca.chunk.js.map",
     "runtime-main.js": "/arena-booking/static/js/runtime-main.002bf34f.js",
     "runtime-main.js.map": "/arena-booking/static/js/runtime-main.002bf34f.js.map",
     "static/css/2.fc679e12.chunk.css": "/arena-booking/static/css/2.fc679e12.chunk.css",
     "static/js/2.d6f10da8.chunk.js": "/arena-booking/static/js/2.d6f10da8.chunk.js",
     "static/js/2.d6f10da8.chunk.js.map": "/arena-booking/static/js/2.d6f10da8.chunk.js.map",
     "index.html": "/arena-booking/index.html",
-    "precache-manifest.ac25423fbf218ec397d0c0c1ebc83f54.js": "/arena-booking/precache-manifest.ac25423fbf218ec397d0c0c1ebc83f54.js",
+    "precache-manifest.b394f1a97bb41f5688740e4f7accc9c6.js": "/arena-booking/precache-manifest.b394f1a97bb41f5688740e4f7accc9c6.js",
     "service-worker.js": "/arena-booking/service-worker.js",
     "static/css/2.fc679e12.chunk.css.map": "/arena-booking/static/css/2.fc679e12.chunk.css.map",
     "static/css/main.d10a64a2.chunk.css.map": "/arena-booking/static/css/main.d10a64a2.chunk.css.map",
@@ -40,6 +40,6 @@
     "static/css/2.fc679e12.chunk.css",
     "static/js/2.d6f10da8.chunk.js",
     "static/css/main.d10a64a2.chunk.css",
-    "static/js/main.93e0288f.chunk.js"
+    "static/js/main.62a868ca.chunk.js"
   ]
 }
